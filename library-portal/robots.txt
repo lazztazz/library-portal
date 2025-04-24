@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin_panel.php
+Disallow: /add_book.php
+Disallow: /add_book_process.php
+Disallow: /approve_review.php
+Disallow: /moderate_reviews.php
+
+Allow: /
+
+Sitemap: http://localhost/sitemap.xml
